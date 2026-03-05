@@ -1,0 +1,11 @@
+dia,hora,slot,coef_horario
+viernes,20:00,V20,0.4
+sábado,12:00,S12,0.55
+sábado,16:00,S16,0.7
+sábado,18:00,S18,0.8
+sábado,20:00,S20,1.0
+domingo,12:00,D12,0.45
+domingo,16:00,D16,0.75
+domingo,18:00,D18,0.85
+domingo,20:00,D20,1.0
+lunes,20:00,L20,0.4
